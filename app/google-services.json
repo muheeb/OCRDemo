@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "394332245736",
+    "firebase_url": "https://fir-vision-c9cc2.firebaseio.com",
+    "project_id": "fir-vision-c9cc2",
+    "storage_bucket": "fir-vision-c9cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394332245736:android:074610b6fa86b978",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.ocrreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394332245736-glqa4nfg113nu5bo7g0jnjnkhngmq5no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEQNxuP-CKGtntYGPbgf3DyEp6vUaS-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
